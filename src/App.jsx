@@ -1,4 +1,6 @@
-import { useState } from 'react'
+import { useRef, useState } from 'react'
+import { motion, useScroll, useSpring, useTransform } from 'framer-motion'
+
 import Header from './components/Header'
 import HeroBanner from './components/HeroBanner'
 import StriveExcel from './components/StriveExcel'
@@ -11,9 +13,10 @@ import OurPartners from './components/OurPartners'
 import Footer from './components/Footer'
 
 function App() {
+
   return (
     <>
-      <section className='flex justify-center items-center w-full overflow-x-hidden'>
+      <motion.section className='flex justify-center items-center w-full overflow-x-hidden'>
         <section className='flex flex-col justify-center items-center max-w-[1280px]'>
           <Header />
           <HeroBanner />
@@ -25,7 +28,7 @@ function App() {
           <GetInTouch />
           <OurPartners />
         </section>
-      </section>
+      </motion.section>
       <Footer />
     </>
 

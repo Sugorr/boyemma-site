@@ -4,7 +4,7 @@ import Truck from "../assets/banner-img.png"
 
 export default function HeroBanner () {
     return (
-        <section className="relative flex justify-between w-full py-6 px-12 mt-6">
+        <section className="relative flex justify-between w-full p-12 mt-6">
             {/* Text Content */}
             <section className="relative w-full flex flex-col justify-center gap-2">
                 <motion.h2
