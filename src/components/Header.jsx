@@ -11,7 +11,7 @@ export default function Header () {
 
                 {/* Navigations */}
                 <nav>
-                    <ul className="flex items-center gap-6">
+                    <ul className="flex items-center gap-6 tracking-wide">
                         <li className="cursor-pointer select-none">Home</li>
                         <li className="cursor-pointer select-none">About Us</li>
                         <li className="cursor-pointer select-none">Philosophy</li>

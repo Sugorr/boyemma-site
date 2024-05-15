@@ -21,7 +21,7 @@ export default function HeroBanner () {
                             delay: 0.2,
                         }
                     }}
-                    className="text-default-accent text-2xl">
+                    className="text-default-accent text-xl font-semibold">
                         We Value our Customer’s Satisfaction. 
                 </motion.h2>
                 <motion.h1
@@ -70,7 +70,7 @@ export default function HeroBanner () {
                             delay: 0.7,
                         }
                     }}
-                    className="text-xl opacity-75 mt-16">
+                    className="opacity-75 mt-12">
                         Boyemma Trucking Services is your go-to partner for End to End Transportation Services that effectively and efficiently transports your good’s and/or services to your valued clients.
                 </motion.p>
                 <motion.div
