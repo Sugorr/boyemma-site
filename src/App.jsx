@@ -18,7 +18,6 @@ function App() {
     <>
       <motion.section className='flex justify-center items-center w-full overflow-x-hidden'>
         <section className='flex flex-col justify-center items-center max-w-[1280px]'>
-          <Header />
           <HeroBanner />
           <StriveExcel />
           <WhoEffect />

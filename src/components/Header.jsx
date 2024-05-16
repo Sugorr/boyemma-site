@@ -14,9 +14,8 @@ export default function Header () {
                     <ul className="flex items-center gap-6 tracking-wide">
                         <li className="cursor-pointer select-none">Home</li>
                         <li className="cursor-pointer select-none">About Us</li>
-                        <li className="cursor-pointer select-none">Philosophy</li>
                         <li className="cursor-pointer select-none">Teams</li>
-                        <li className="px-6 py-3 cursor-pointer select-none hover:bg-default-accent transition-colors duration-200 rounded-full text-white bg-default-base ">Contact Us</li>
+                        <li className="px-6 py-3 cursor-pointer select-none hover:bg-default-accent transition-colors duration-200 rounded text-white bg-default-base ">Contact Us</li>
                     </ul>
                 </nav>
             </section>

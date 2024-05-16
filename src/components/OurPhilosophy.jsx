@@ -71,7 +71,7 @@ export default function OurPhilosphy () {
                         <section>
                         From humble beginnings, Boyemma Trucking Services (Formertly Boyemma Trading) started at the year 2012 with only 2 ten-wheeler trucks with their garage located on San Leonardo, Nueva Ecija. A great business owned, founded, and managed by Emmaruth Cooper which had a great experience in the trucking industry. Boyemma Trucking Services operated with a team of gratefully skilled and managed workers and drivers. Now it owns 35 ten-wheeler wing van trucks and 3 trailer truck equipped...
                         </section>
-                        <div className="text-white bg-default-accent rounded-full px-8 py-3">
+                        <div className="text-white bg-default-base hover:bg-default-accent transition-colors duration-200 cursor-pointer rounded px-8 py-3">
                             Learn More
                         </div>
                     </section>
