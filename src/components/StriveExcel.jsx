@@ -53,7 +53,7 @@ export default function StriveExcel () {
                                 <p className="text-xl font-bold py-2">Nationwide Service</p>
                                 <p className="text-base">Have a product that needs to be delivered far? No problem, we’ll be able to deliver them anywhere you need it to be.</p>
                             </div>
-                            <div className="mt-auto px-6 py-2 rounded border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent">
+                            <div className="mt-auto px-6 py-2 rounded-xl border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent">
                                 Learn More
                             </div>
                     </motion.div>
@@ -80,7 +80,7 @@ export default function StriveExcel () {
                                 <p className="text-xl font-bold py-2">A Fleet you can count on</p>
                                 <p className="text-base">We always make sure that you’re goods are safe with us. Our Vehicles are well maintained and our fleet are always ready for your needs! 24/7 guaranteed.</p>
                             </div>
-                            <div className="mt-auto px-6 py-2 rounded border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent">
+                            <div className="mt-auto px-6 py-2 rounded-xl border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent">
                                 Learn More
                             </div>
                     </motion.div>
@@ -107,7 +107,7 @@ export default function StriveExcel () {
                                 <p className="text-xl font-bold py-2">On-Time</p>
                                 <p className="text-base">Need you goods to be deliver on time? Need no more, our fleet are ready to handle even the most time restricted deliveries.</p>
                             </div>
-                            <div className="mt-auto px-6 py-2 rounded border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent">
+                            <div className="mt-auto px-6 py-2 rounded-xl border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent">
                                 Learn More
                             </div>
                     </motion.div>

@@ -4,7 +4,6 @@
 export default function GetInTouch () {
     return (
         <section className="relative flex flex-col justify-center items-center gap-16 w-full px-12 py-6 mt-48">
-                <div className="absolute -top-64 -left-96 opacity-10 -z-20 rounded-full bg-default-accent h-[720px] w-[720px] blur-3xl"></div>
             <section className="relative flex flex-col gap-4">
                 <p className="text-6xl font-bold">Get in Touch!</p>
                 <p>Let us help you out with 3 convenient contact options.</p>

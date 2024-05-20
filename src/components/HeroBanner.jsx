@@ -89,8 +89,8 @@ export default function HeroBanner () {
                             }
                         }}
                         className="flex gap-6 mt-16">
-                            <div className="px-8 py-3 bg-default-base text-white hover:bg-default-accent cursor-pointer transition-colors duration-200 rounded flex items-center">Contact Us</div>
-                            <div className="px-8 py-3 bg-transparent border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent rounded flex items-center">Read More</div>
+                            <div className="px-6 py-3 bg-default-base text-white hover:bg-default-accent cursor-pointer transition-colors duration-200 rounded-xl flex items-center">Contact Us</div>
+                            <div className="px-6 py-3 bg-transparent border-2 border-default-accent cursor-pointer hover:bg-default-accent hover:text-white transition-colors duration-200 text-default-accent rounded-xl flex items-center">Read More</div>
                     </motion.div>
                 </section>
 

@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <motion.section className='flex justify-center items-center w-full overflow-x-hidden'>
-        <section className='flex flex-col justify-center items-center max-w-[1280px]'>
+        <section className='flex flex-col justify-center items-center max-w-[1120px]'>
           <HeroBanner />
           <StriveExcel />
           <WhoEffect />
